@@ -1,0 +1,26 @@
+body {
+  background-color: slategrey;
+}
+
+h1 {
+  text-align: center;
+  color: Goldenrod;
+  font-size: 4.0em;
+}
+
+nav {
+  background-color: Silver;
+  padding: 10px;
+}
+
+li {
+  font-size: 1.6em;
+  font-weight: bold;
+  text-align: center;
+  list-style: none;
+}
+
+
+p {
+  font-size: 1.2em;
+}
